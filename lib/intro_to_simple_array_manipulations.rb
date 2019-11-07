@@ -28,4 +28,4 @@ def using_concat(my_favorite_things, more_faves)
 end
 
 def using_insert(array, element)
-  array.insert
+  array.insert(3, element)
